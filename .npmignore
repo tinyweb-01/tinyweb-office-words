@@ -1,0 +1,12 @@
+src/
+tests/
+examples/
+plans/
+tsconfig.json
+jest.config.*
+.github/
+node_modules/
+.gitignore
+.npmignore
+*.log
+.DS_Store
